@@ -13,6 +13,11 @@ Data was taken from [Data Nerd Site](https://datanerd.tech/). It includes data s
 4. Which skills are associated with higher salaries?
 5. What are the most optimal skills to learn?
 
+# Tools I used
+
+I leveraged **SQL** and **PostgreSQL** to extract and analyze the data. **VSCode** provided a convenient coding environment, while **Git** and **GitHub** enabled version control and collaboration. Finally, **Google Gemini** assisted in various aspects of the analysis, from data exploration to report writing. 
+
+
 # The Analysis
 
 Each query addresses the questions outlined above.
