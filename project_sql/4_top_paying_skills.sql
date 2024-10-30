@@ -19,7 +19,7 @@ GROUP BY
     skills
 ORDER BY
     avg_salary DESC
-LIMIT 25
+LIMIT 10
 
 /*
 Data engineering and big data tools lead the way: Skills like PySpark, Couchbase, and DataRobot—focused 
