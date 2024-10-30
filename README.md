@@ -3,7 +3,7 @@ The project presents an analysis of the job market, focusing on positions relate
 
 # Background
 
-Data was taken from [Data Nerd Site](https://datanerd.tech/). Zawiera takie dane jak job titles, salaries, locations, and essential skills.
+Data was taken from [Data Nerd Site](https://datanerd.tech/). It includes data such as: job titles, salaries, locations, and essential skills.
 
 ### Questions I want to answer in the analysis
 
